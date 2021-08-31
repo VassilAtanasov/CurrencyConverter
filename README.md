@@ -28,4 +28,4 @@ To run Unit Tests in command line use:
 dotnet test
 
 # Developer Notes
-The currency rates are storred in the appsettings.json
+The currency rates are stored in the appsettings.json
