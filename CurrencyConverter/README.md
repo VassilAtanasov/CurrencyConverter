@@ -7,9 +7,6 @@ The project uses .Net version 5
 ## To Run the API
 dotnet run
 
-## To run Unit Tests
-dotnet test
-
 #Usage
 The API exposes 3 endpoints using GET HTTP method
 
